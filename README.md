@@ -16,15 +16,7 @@
 
 ## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-blue?logo=java) 
-![C](https://img.shields.io/badge/C-00599C?logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-264de4?logo=css3)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
-![Verilog](https://img.shields.io/badge/Verilog-blueviolet)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,sqlite,py)](https://skillicons.dev)
 
 ---
 
