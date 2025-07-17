@@ -16,7 +16,11 @@
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,sqlite,py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,sqlite,py)" />
+  </a>
+</p>
 
 ---
 
@@ -27,6 +31,8 @@
 - 📦 **Cache Simulator** – Verilog simulation of a 4-way set associative cache  
 - 🏓 **Pong Game** – Classic Pong remake using JavaScript, HTML & Canvas
 - 📊 **Finance Tracker** – A JavaFX app for tracking income and expenses with clean visual feedback
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,sqlite,py)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
