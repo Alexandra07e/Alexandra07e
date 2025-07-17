@@ -32,7 +32,7 @@
 - 🏓 **Pong Game** – Classic Pong remake using JavaScript, HTML & Canvas
 - 📊 **Finance Tracker** – A JavaFX app for tracking income and expenses with clean visual feedback
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,git,discord,linux,debian,emacs,gitlab,clion,vistualstudio,vscode,idea,eclipse,gradle,p5js,pycharm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,gradle,p5js,pycharm)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
