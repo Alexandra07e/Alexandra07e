@@ -50,7 +50,3 @@
 ---
 
 > _"☕ Still fueled by coffee and tight deadlines."_
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Alexandra07e/Alexandra07e/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
