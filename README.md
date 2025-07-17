@@ -38,8 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&theme=default" alt="Top Languages" />
-  <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -50,4 +49,4 @@
 
 ---
 
-> _"Code is like poetry – structured, expressive, and powerful."_
+> _"☕ Still fueled by coffee and tight deadlines."_
