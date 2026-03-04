@@ -34,13 +34,6 @@
 - 🧮 **Derivatives** - A symbolic differentiator in C# that works on mathematical expressions written in prefix notation
 
   [![My Skills](https://skillicons.dev/icons?i=git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,p5js,pycharm)](https://skillicons.dev)
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&cache_seconds=1800" />
-</p>
 
 ---
 
