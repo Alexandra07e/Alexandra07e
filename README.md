@@ -30,16 +30,16 @@
 - ⚙️ **Processor** – Processor implemented in Verilog, containing ALU, CPU, System on Chip approach, with I/O and unified Memory units
 - 🏓 **Pong Game** – Classic Pong remake using JavaScript, HTML & Canvas
 - 📊 **Finance Tracker** – A JavaFX app for tracking income and expenses with clean visual feedback
-- 🔌 **Microsystem with the 8086 microprocessor** - 8086 microsystem with EPROM/SRAM and basic I/O peripherals, plus address decoding and assembly drivers for 8251/8255 interfaces
+- 🔌 **Microsystem with the 8086 microprocessor** - 8086 microsystem with EPROM/SRAM and basic I/O peripherals
 - 🧮 **Derivatives** - A symbolic differentiator in C# that works on mathematical expressions written in prefix notation
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,gradle,p5js,pycharm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,p5js,pycharm)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Alexandra07e" />
 </p>
 
 ---
@@ -47,6 +47,7 @@
 ## 📫 Contact
 
 📧 tanasealexandra803@gmail.com
+🔗 https://www.linkedin.com/in/alexandra-elena-tanase-801b49163/
 
 ---
 
