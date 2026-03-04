@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,sqlite,py" />
+    <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,java,sqlite,py" />
   </a>
 </p>
 
@@ -27,10 +27,11 @@
 ## 🛠️ Highlighted Projects
 
 - 🗺️ **Treasure Hunt** – Terminal-based C project for OS class using process sync and file I/O  
-- ⚙️ **8-bit ALU** – Verilog-based arithmetic logic unit with testbenches  
-- 📦 **Cache Simulator** – Verilog simulation of a 4-way set associative cache  
+- ⚙️ **Processor** – Processor implemented in Verilog, containing ALU, CPU, System on Chip approach, with I/O and unified Memory units
 - 🏓 **Pong Game** – Classic Pong remake using JavaScript, HTML & Canvas
 - 📊 **Finance Tracker** – A JavaFX app for tracking income and expenses with clean visual feedback
+- 🔌 **Microsystem with the 8086 microprocessor** - 8086 microsystem with EPROM/SRAM and basic I/O peripherals, plus address decoding and assembly drivers for 8251/8255 interfaces
+- 🧮 **Derivatives** - A symbolic differentiator in C# that works on mathematical expressions written in prefix notation
 
   [![My Skills](https://skillicons.dev/icons?i=bash,git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,gradle,p5js,pycharm)](https://skillicons.dev)
 ---
