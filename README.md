@@ -2,15 +2,15 @@
 
 🎓 **Undergraduate Student at Politehnica University of Timișoara**  
 💻 **Faculty of Automation and Computer Engineering**  
-🔍 Passionate about building efficient, low-level and high-level software systems
+🔍 Passionate about hardware, embedded systems engineering and networking.
 
 ---
 
 ## 💼 What I'm working on
 
-- Java, C/C++, Python, Verilog, and JavaScript projects  
-- Focused on systems programming, software design, and digital logic  
-- Exploring both backend and frontend technologies
+- Embedded and hardware-focused projects using **C, Verilog and Assembly** (microcontrollers, digital design, HW–SW interaction)
+- Building strong foundations in computer architecture, digital logic, and low-level debugging
+- Expanding my skills in **networking, cybersecurity and IoT** through **Cisco Packet Tracer app and Cisco Network Academy** courses
 
 ---
 
