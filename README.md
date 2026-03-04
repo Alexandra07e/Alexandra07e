@@ -39,15 +39,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alexandra07e" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-📧 tanasealexandra803@gmail.com
-🔗 https://www.linkedin.com/in/alexandra-elena-tanase-801b49163/
+- 📧 tanasealexandra803@gmail.com
+- 🔗 https://www.linkedin.com/in/alexandra-elena-tanase-801b49163/
 
 ---
 
