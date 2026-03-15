@@ -34,9 +34,11 @@
 
   [![My Skills](https://skillicons.dev/icons?i=git,discord,linux,debian,emacs,gitlab,clion,visualstudio,vscode,idea,eclipse,p5js,pycharm)](https://skillicons.dev)
 
-  ---
+---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra07e&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
