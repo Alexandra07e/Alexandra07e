@@ -26,7 +26,6 @@
 
 ## 🛠️ Highlighted Projects
 
-- 🗺️ **Treasure Hunt** – Terminal-based C project for OS class using process sync and file I/O  
 - ⚙️ **Processor** – Processor implemented in Verilog, containing ALU, CPU, System on Chip approach, with I/O, unified Memory units
 - 🏓 **Pong Game** – Classic Pong remake using JavaScript, HTML & Canvas
 - 📊 **Finance Tracker** – A JavaFX app for tracking income and expenses with clean visual feedback
